@@ -14,10 +14,10 @@ I build C++ and Python experiments with reproducible measurements.
 | [ATC simulator](https://github.com/Gotman08/simulateur-controleur-aerien) | Local text clearance parser | **102/116** exact command sets on a fixed corpus; voice loop unmeasured. | [Report and raw data](https://github.com/Gotman08/simulateur-controleur-aerien/blob/chore/repo-overhaul/README.md) |
 | [Projet801](https://github.com/Gotman08/Projet801) | Wave Function Collapse grid generation | 128×128: serial **3.34768 s**, OpenMP eight threads **8.53654 s**; slower with OpenMP in this case. | [Report and raw data](https://github.com/Gotman08/Projet801/blob/chore/repo-overhaul/README.md) |
 
-Each report provides the measurement setup, raw data and known limits.
+Timing values are medians from local WSL runs. Each report provides the detailed conditions, raw data and known limits.
 
 ---
 
 **Stack:** C++, Python, Bash, OpenMP, MPI, Linux, Git.
 
-**Contact:** [@Gotman08 on GitHub](https://github.com/Gotman08).
+**Contact:** [Start a public conversation on GitHub](https://github.com/Gotman08/Gotman08/issues/new?title=Contact).
