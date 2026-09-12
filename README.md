@@ -7,7 +7,7 @@
 
 <samp>PARALLEL COMPUTING · SIMULATION · SCIENTIFIC IMAGING</samp>
 
-I'm Nicolas, an MSc student at the University of Reims.<br>I build C++ and Python experiments, from parallel solvers to interactive simulations.
+MSc student at the University of Reims.<br>I build C++ and Python experiments, from parallel solvers to interactive simulations.
 
 </div>
 
