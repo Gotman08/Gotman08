@@ -46,11 +46,11 @@ Controller training and traffic simulation with BlueSky.
 </td>
 <td width="50%" valign="top">
 
-### [Wave Function Collapse](https://github.com/Gotman08/Projet801)
+### [Wave Function Collapse](https://github.com/Gotman08/parallel-wave-function-collapse)
 
 Procedural grids built from local pattern constraints.
 
-**[3.35 s for a 128 × 128 grid](https://github.com/Gotman08/Projet801/blob/2c2cda318deb9618e43e7972519505d8f49573e6/README.md)**<br><sub>Serial solver · OpenMP slower on this workload</sub>
+**[3.35 s for a 128 × 128 grid](https://github.com/Gotman08/parallel-wave-function-collapse/blob/2c2cda318deb9618e43e7972519505d8f49573e6/README.md)**<br><sub>Serial solver · OpenMP slower on this workload</sub>
 
 </td>
 </tr>
